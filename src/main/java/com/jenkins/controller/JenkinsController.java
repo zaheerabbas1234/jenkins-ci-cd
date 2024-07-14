@@ -28,7 +28,7 @@ public class JenkinsController {
 		
 		Jenkins save = repo.save(model);
 		
-		return save;
+		return save
 	}
 
 }
